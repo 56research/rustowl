@@ -1,4 +1,7 @@
 This repo is for peer-review.
+The easiest way to use RustOwl is: <a href="https://play.rustowl.rs/">play.rustowl.rs</a>
+
+If you'd like to use RustOwl in your editor, like VS Code, read the following.
 
 <div align="center">
     <h1>
@@ -9,9 +12,6 @@ This repo is for peer-review.
     </h1>
     <p>
       Visualize ownership and lifetimes in Rust for debugging and optimization
-    </p>
-    <p>
-      You can try out RustOwl on <a href="https://play.rustowl.rs/">play.rustowl.rs</a>
     </p>
     <p>
       <font size="4">
